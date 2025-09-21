@@ -1,21 +1,21 @@
-# 📊 SaaS Dashboard Frontend  
+# SaaS Dashboard Frontend  
 
 A **next-generation dashboard interface** that blends performance, accessibility, and modern design. Built with **React + Vite**, styled with **Tailwind CSS**, and enhanced with **Framer Motion** for smooth animations. Supports **light/dark themes**, responsive layouts, and easy navigation.  
 
 ---
 
-## ✨ Features  
+## Features  
 
-- **🖥️ Dashboard Interface** – Clean and minimal layout for a great user experience  
-- **📂 Sidebar + Navbar** – Responsive design with seamless integration  
-- **📊 Interactive Charts & Tables** – Dynamic visualization of data  
-- **🌙 Dark/Light Mode Toggle** – Personalized theme switching  
-- **🔀 Routing** – Smooth navigation across multiple pages  
-- **🎞️ Animations** – Framer Motion-powered modern transitions  
+- ** Dashboard Interface** – Clean and minimal layout for a great user experience  
+- ** Sidebar + Navbar** – Responsive design with seamless integration  
+- ** Interactive Charts & Tables** – Dynamic visualization of data  
+- ** Dark/Light Mode Toggle** – Personalized theme switching  
+- ** Routing** – Smooth navigation across multiple pages  
+- ** Animations** – Framer Motion-powered modern transitions  
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 - **React** – Component-based UI library  
 - **Vite** – Lightning-fast development/build tool  
@@ -24,16 +24,16 @@ A **next-generation dashboard interface** that blends performance, accessibility
 
 ---
 
-## ⚡ Getting Started  
+## Getting Started  
 
-### 📋 Prerequisites  
+### Prerequisites  
 Make sure you have the following installed:  
 - [Node.js](https://nodejs.org/) (v14.18.0 or higher)  
 - [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)  
 
 ---
 
-### 🚀 Installation  
+### Installation  
 
 1. **Clone the repository**  
    ```bash
@@ -68,7 +68,7 @@ Make sure you have the following installed:
 
 ---
 
-## 🎨 Tailwind CSS  
+## Tailwind CSS  
 
 - Configured with **PostCSS** + **Autoprefixer** for cross-browser support  
 - Customize design in **`tailwind.config.js`**  
@@ -76,7 +76,7 @@ Make sure you have the following installed:
 
 ---
 
-## 🎥 Framer Motion  
+## Framer Motion  
 
 Use Framer Motion to add animations easily:  
 
@@ -88,13 +88,13 @@ import { motion } from "framer-motion";
   animate={{ opacity: 1 }} 
   transition={{ duration: 0.5 }}
 >
-  Hello Dashboard 👋
+  Hello Dashboard 
 </motion.div>
 ```
 
 ---
 
-## 🧹 ESLint  
+## ESLint  
 
 Configured with:  
 - `eslint-plugin-react`  
@@ -108,7 +108,7 @@ npm run lint
 
 ---
 
-## 📜 Scripts  
+## Scripts  
 
 | Command           | Description                     |
 |-------------------|---------------------------------|
@@ -119,7 +119,21 @@ npm run lint
 
 ---
 
-## ⚙️ Additional Configuration  
+## Production Live Demo Link   
+
+Check out the production version deployed on **Netlify**:  
+[https://super-quokka-72e080.netlify.app/](https://super-quokka-72e080.netlify.app/)
+
+---
+
+## Live Demo Video  
+
+Watch the dashboard in action:  
+[Download/View Demo Video](https://github.com/Khushi2207/Byewind-React-Dashboard-/releases/download/v.0.1/Screencast.from.2025-09-21.12-14-01.webm)  
+
+---
+
+## Additional Configuration  
 
 - **Vite Plugin React** – Optimized builds + fast refresh  
 - **PostCSS & Autoprefixer** – Ensures cross-browser compatibility  
